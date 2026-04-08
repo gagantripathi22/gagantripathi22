@@ -1,6 +1,5 @@
 Gagan Tripathi
 
-Projects
 --
 
 [portkill](https://github.com/gagantripathi22/portkill) — Kill processes by port. Linux, macOS, Windows.
